@@ -6,19 +6,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+
 About me
 ======
 
-Welcome! I am a Ph.D. candidate in the Department of Industrial and Operations Engineering at the University of Michigan advised by [Dr. Raed Al Kontar](https://alkontar.engin.umich.edu/). My research is driven by the need for novel statistical and optimization methodologies addressing scientific and engineering challenges across diverse domains, including the Internet of Things, smart manufacturing, and spatial transcriptomics. I am also interested in investigating the theoretical underpinnings of these methods. In particular, my current research in <span style="color:blue">personalized, collaborative, and decentralized</span> data analytics explores computational techniques to integrate knowledge from multiple sources and build tailored machine-learning models.  A few topics of my research are introduced below.
+Welcome! I am a Ph.D. candidate in the Department of Industrial and Operations Engineering at the University of Michigan advised by [Dr. Raed Al Kontar](https://alkontar.engin.umich.edu/). My research is driven by the need for novel statistical and optimization methodologies addressing scientific and engineering challenges across diverse domains, including the Internet of Things, smart manufacturing, and spatial transcriptomics. I am also interested in investigating the theoretical underpinnings of these methods. In particular, my current research in <span style="color:#d9ab96">personalized, collaborative, and decentralized</span> data analytics explores computational techniques to integrate knowledge from multiple sources and build tailored machine-learning models.  A few topics of my research are introduced below.
 
 
 
 Featured papers
 ======
 
-<ins>Personalized PCA: Decoupling Shared and Unique Features</ins>Naichen Shi, Raed Kontar Journal of Machine Learning Research (JMLR), 2024. [Link](https://www.jmlr.org/papers/v25/22-0810.html), [Video](https://www.youtube.com/watch?v=9XWY745ZFPM), [Code](https://github.com/UMDataScienceLab/Personalized_PCA)
+Personalized data analytics
+------
+<ins>Personalized PCA: Decoupling Shared and Unique Features</ins> Naichen Shi, Raed Kontar Journal of Machine Learning Research (JMLR), 2024. [Link](https://www.jmlr.org/papers/v25/22-0810.html), [Video](https://www.youtube.com/watch?v=9XWY745ZFPM), [Code](https://github.com/UMDataScienceLab/Personalized_PCA)
 
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+When data are collected from multiple related but heterogeneous sources, can we integrage the common information among these sources and identify the unique feature in each source?  
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
