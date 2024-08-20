@@ -32,8 +32,8 @@ Despite the simplicity, Personalized PCA and its variants have found several use
 
 <p align="center">
   <img src="images/3dprinting.png" alt="3D printing" width="200" style="display: inline-block; margin: 0 10px;"/>
-  <img src="images/srt.png" alt="Spatial transcriptomics" width="100" style="display: inline-block; margin: 0 10px;"/>
-  <img src="images/solarflare.png" alt="Solar flare" width="200" style="display: inline-block; margin: 0 10px;"/>
+  <img src="images/srt.png" alt="Spatial transcriptomics" width="80" style="display: inline-block; margin: 0 10px;"/>
+  <img src="images/solarflare.png" alt="Solar flare" width="180" style="display: inline-block; margin: 0 10px;"/>
 </p>
 
 An article from [Phys.org](https://phys.org/news/2024-03-statistical-tool-distinguish-unique-features.html) reports this method.
