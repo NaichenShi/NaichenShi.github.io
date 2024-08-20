@@ -8,11 +8,13 @@ I am an active member of my communities, eager to promote equity and fairness in
 
 ## Campus engagement
 
-[MSSISS 2023 organizing comittee] I am a student representative and fundraiser of the 2023 Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS). The MSSISS is an annual event organized by graduate students. 
+[MSSISS 2023 organizing comittee] I am a student representative and fundraiser of the 2023 Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS). The MSSISS is an annual 2-day event organized by graduate students. 
 
 ## INFORMS community
 
-[INFORMS Pro Bono group] I am a member of INFORMS Pro Bono group who aims to promote spatial justice among Michigan. Our group applies data visualization and data analytics to manufactured housing communities in Michigan. We are working with community leaders to help them in legislative efforts. 
+[INFORMS Pro Bono Group] I am a core member of the University of Michigan INFORMS Pro Bono group. Our mission is to advance housing equity across the state of Michigan by leveraging techniques from operations research and data analytics. More specifically, we partner with community leaders from manufactured housing communities to drive legislative change. To support this objective, we clean and organize demographic and socioeconomic data, then apply data visualization and analytics techniques to generate evidence for legislative advocacy.
+
+[Membership] I am a member of INFORMS QSR community and Data Mining society.
 
 ## Reviewer services
 
@@ -24,9 +26,13 @@ I serve as a reviewer of multiple conferences and journals. A list is summarized
 
 - Program Comittee (PC) of AAAI 2025.
 
-- Reviewer of ICLR 2025.
+- Reviewer of ICLR 2025, ICLR 2024.
 
-- Reviewer of NeurIPS 2024.
+- Reviewer of NeurIPS 2024, NeurIPS 2023.
+
+- Reviewer of ICML 2024.
+
+- Reviewer of AISTATS 2023, AISTATS 2022.
 
 ### Journal
 
@@ -34,6 +40,6 @@ I serve as a reviewer of multiple conferences and journals. A list is summarized
 
 - Reviewer of Technometrics.
 
-- Reviewer of TASE.
+- Reviewer of IEEE TASE.
 
 - Reviewer of Automation in Construction.
