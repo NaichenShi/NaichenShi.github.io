@@ -31,9 +31,9 @@ When data are collected from multiple related but heterogeneous sources, how can
 Despite the simplicity, Personalized PCA and its variants have found several useful applications in [**additive manufacturing**](https://www.sciencedirect.com/science/article/abs/pii/S0278612524000694), [**solar flare detection**](https://arxiv.org/pdf/2309.03439), and **spatial transcriptomics analysis**.
 
 <p align="center">
-  <img src="3dprinting.png" alt="3D printing" width="200" style="display: inline-block; margin: 0 10px;"/>
-  <img src="srt.png" alt="Spatial transcriptomics" width="200" style="display: inline-block; margin: 0 10px;"/>
-  <img src="solarflare.png" alt="Solar flare" width="200" style="display: inline-block; margin: 0 10px;"/>
+  <img src="images/3dprinting.png" alt="3D printing" width="200" style="display: inline-block; margin: 0 10px;"/>
+  <img src="images/srt.png" alt="Spatial transcriptomics" width="200" style="display: inline-block; margin: 0 10px;"/>
+  <img src="images/solarflare.png" alt="Solar flare" width="200" style="display: inline-block; margin: 0 10px;"/>
 </p>
 
 An article from [Phys.org](https://phys.org/news/2024-03-statistical-tool-distinguish-unique-features.html) reports this method.
