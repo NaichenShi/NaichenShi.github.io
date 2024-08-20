@@ -26,13 +26,13 @@ When data are collected from multiple related but heterogeneous sources, how can
 
 ![Personalized PCA](./images/perpca.png)
 
-**Identifiability** is a challenge as the global PCs can be difficult to separate from local PCs in data. We propose a *misalignment condition* that measures the "smallest difference" among the subspaces spanned by global PCs. Based on the misalignment condition, we provide an upper bound on the statistical error of the global and local PCs, which almost matches their lower bound.
+**Identifiability** is a challenge as the global PCs can be difficult to separate from local PCs in data. We propose a *misalignment condition* that measures the "smallest difference" among the subspaces spanned by global PCs. Based on the misalignment condition, we provide an upper bound on the statistical error of the global and local PCs, which almost matches their lower bound. 
 
 Despite the simplicity, Personalized PCA and its variants have found several useful applications in [**additive manufacturing**](https://www.sciencedirect.com/science/article/abs/pii/S0278612524000694), [**solar flare detection**](https://arxiv.org/pdf/2309.03439), and **spatial transcriptomics analysis**.
 
 <p align="center">
   <img src="images/3dprinting.png" alt="3D printing" width="200" style="display: inline-block; margin: 0 10px;"/>
-  <img src="images/srt.png" alt="Spatial transcriptomics" width="200" style="display: inline-block; margin: 0 10px;"/>
+  <img src="images/srt.png" alt="Spatial transcriptomics" width="100" style="display: inline-block; margin: 0 10px;"/>
   <img src="images/solarflare.png" alt="Solar flare" width="200" style="display: inline-block; margin: 0 10px;"/>
 </p>
 
