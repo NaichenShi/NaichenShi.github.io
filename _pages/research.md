@@ -13,6 +13,17 @@ My research encompasses various facets of statistics and optimization. Below is 
 Naichen Shi, Hao Yan, Shenghan Guo, Raed Kontar.
 [Link](https://arxiv.org/abs/2407.17720)
 
+<details>
+<summary>Highlights</summary>
+
+<sub>Diffusion generative models can generate photorealistic images and videos but often struggle to understand the physical interactions. When practitioners from the science and engineering fields have access to physics simulators, can they improve the quality of diffusion model-generated samples with the help of simulations?</sub>
+<p align="center">
+  <img src="images/double_physics_1.jpg" alt="illustration" width="300" style="display: inline-block; margin: 0 10px;"/>
+</p>
+<sub>We explore two strategies to incorporate physics simulation into diffusion models. Results show that our model indeed integrates physics knowledge in heat and fluid dynamics with patterns from real observations. </sub>
+
+</details>
+
 
 [J8: JMLR minor revision] <ins>**Triple Component Matrix Factorization: Untangling Global, Local, and Noisy Components**</ins> 
 Naichen Shi, Salar Fattahi, Raed Al Kontar. *Journal of Machine Learning Research (JMLR)*, 2024. [Link](https://arxiv.org/abs/2404.07955)
@@ -43,16 +54,16 @@ Naichen Shi, Raed Al Kontar. *Technometrics*, 2023. [Link](https://www.tandfonli
 
 ## Conference papers
 
-[C4: NeurIPS Spotlight] <ins>**Personalized Dictionary Learning for Heterogeneous Datasets**</ins> Geyu Liang, Naichen Shi, Raed Al Kontar, Salar Fattahi.  *Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS)*, 2023. link 
+[C4: NeurIPS Spotlight] <ins>**Personalized Dictionary Learning for Heterogeneous Datasets**</ins> Geyu Liang, Naichen Shi, Raed Al Kontar, Salar Fattahi.  *Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS)*, 2023. [Link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9f6f790f28a31fba89644f09faf4e0cb-Abstract-Conference.html), [Code](https://github.com/lianggeyuleo/PerMA). 
 
 [C3: MSEC] <ins>**Process Signature Characterization and Anomaly Detection with Personalized PCA in Laser-Based Metal Additive Manufacturing** </ins> 
-Naichen Shi, Raed Kontar, Shenghan Guo. *Proceedings of the ASME 2023 18th International Manufacturing Science and Engineering Conference*, 2022.
+Naichen Shi, Raed Kontar, Shenghan Guo. *Proceedings of the ASME 2023 18th International Manufacturing Science and Engineering Conference*, 2022. [Link](https://asmedigitalcollection.asme.org/MSEC/proceedings-abstract/MSEC2023/1168823).
 
 [C2: NeurIPS Spotlight] <ins>**Adam Can Converge Without Any Modification On Update Rules**</ins>
-Yushun Zhang, Congliang Chen, Naichen Shi, Ruoyu Sun, Zhiquan Luo. *Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS)*, 2022. link 
+Yushun Zhang, Congliang Chen, Naichen Shi, Ruoyu Sun, Zhiquan Luo. *Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS)*, 2022. [Link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b6260ae5566442da053e5ab5d691067a-Abstract-Conference.html). 
 
 [C1: ICLR spotlight] <ins>**RMSprop converges with proper hyper-parameter**</ins>
-Naichen Shi, Dawei Li, Mingyi Hong, and Ruoyu Sun. *International Conference on Learning Representations (ICLR)*, 2021. link 
+Naichen Shi, Dawei Li, Mingyi Hong, and Ruoyu Sun. *International Conference on Learning Representations (ICLR)*, 2021. [Link](https://openreview.net/forum?id=3UDSdyIcBDA), [Video](https://iclr.cc/virtual/2021/spotlight/3415), [Code](https://github.com/soundsinteresting/RMSprop).
 
 ---
 
