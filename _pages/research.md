@@ -56,7 +56,6 @@ Naichen Shi, Hao Yan, Shenghan Guo, Raed Kontar.
 
 <details>
 <summary><smlt>Highlights</smlt></summary>
-<div class="content">
 <smlt>Diffusion generative models can generate photorealistic images and videos but often struggle to understand the physical interactions. When practitioners from the science and engineering fields have access to physics simulators, can they improve the quality of diffusion model-generated samples with the help of simulations?</smlt>
 
 <p align="center">
@@ -64,7 +63,7 @@ Naichen Shi, Hao Yan, Shenghan Guo, Raed Kontar.
 </p>
 
 <smlt>We explore two strategies to incorporate physics simulation into diffusion models. Results show that our model indeed integrates physics knowledge in heat and fluid dynamics with patterns from real observations. </smlt>
-</div>
+
 </details>
 <br>
 
