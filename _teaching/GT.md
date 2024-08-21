@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/gt
 venue: "Peking University"
-date: "2020 February to June"
+date: "2020-02-01"
 location: "Beijing, China"
 ---
 

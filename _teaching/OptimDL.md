@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/optdl
 venue: "Chinese University of Hong Kong Shenzhen"
-date: "2021 June to July"
+date: "2021-06-28"
 location: "Shenzhen, China"
 ---
 
