@@ -61,7 +61,7 @@ Naichen Shi, Dawei Li, Mingyi Hong, Ruoyu Sun. *International Conference on Lear
 
 ---
 
-[Here](https://naichenshi.github.io/publications/) is a more comprehensive list of publications. You can also check my [Google scholar profile](https://scholar.google.com/citations?user=9DVanY4AAAAJ&hl=en).
+[Here](https://naichenshi.github.io/research/) is a more comprehensive list of publications. You can also check my [Google scholar profile](https://scholar.google.com/citations?user=9DVanY4AAAAJ&hl=en).
 
 News
 ======

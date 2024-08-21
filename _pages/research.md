@@ -8,41 +8,6 @@ smlt {
     font-size:0.8em;
 }
 
-summary {
-  border: 4px solid transparent;
-  outline: none;
-  
-  padding: 1rem;
-  display: block;
-  
-  padding-left: 2.2rem;
-  position: relative;
-  cursor: pointer;
-}
-details {
-  max-width: 500px;
-  margin-top: 5px;
-
-}
-details summary::-webkit-details-marker {
-  display:none;
-}
-details[open] > summary:before {
-  transform: rotate(90deg);
-}
-summary:before {
-  content: '';
-  border-width: .4rem;
-  border-style: solid;
-  border-color: transparent transparent transparent #fff;
-  position: absolute;
-  top: 1.3rem;
-  left: 1rem;
-  transform: rotate(0);
-  transform-origin: .2rem 50%;
-  transition: .25s transform ease;
-}
-
 </style>
 
 My research encompasses various facets of statistics and optimization. Below is a list of my publications. You are welcome to contact me if you are interested in one or more of my papers. I am happy to discuss!
@@ -55,7 +20,7 @@ Naichen Shi, Hao Yan, Shenghan Guo, Raed Kontar.
 [Link](https://arxiv.org/abs/2407.17720)
 
 <details>
-<summary><smlt>Highlights</smlt></summary>
+<summary><smlt> Highlights</smlt></summary>
 <smlt>Diffusion generative models can generate photorealistic images and videos but often struggle to understand the physical interactions. When practitioners from the science and engineering fields have access to physics simulators, can they improve the quality of diffusion model-generated samples with the help of simulations?</smlt>
 
 <p align="center">
