@@ -14,15 +14,15 @@ Naichen Shi, Hao Yan, Shenghan Guo, Raed Kontar.
 [Link](https://arxiv.org/abs/2407.17720)
 
 <details>
-<summary>Highlights</summary>
+<summary><sub>Highlights</sub></summary>
 
 <sub>Diffusion generative models can generate photorealistic images and videos but often struggle to understand the physical interactions. When practitioners from the science and engineering fields have access to physics simulators, can they improve the quality of diffusion model-generated samples with the help of simulations?</sub>
 <p align="center">
-  <img src="images/double_physics_1.jpg" alt="illustration" width="300" style="display: inline-block; margin: 0 10px;"/>
+  <img src="../images/double_physics_1.jpg" alt="illustration" width="300" style="display: inline-block; margin: 0 10px;"/>
 </p>
 <sub>We explore two strategies to incorporate physics simulation into diffusion models. Results show that our model indeed integrates physics knowledge in heat and fluid dynamics with patterns from real observations. </sub>
-
 </details>
+
 
 
 [J8: JMLR minor revision] <ins>**Triple Component Matrix Factorization: Untangling Global, Local, and Noisy Components**</ins> 
