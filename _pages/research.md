@@ -3,6 +3,13 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+<style>
+smlt{
+    font-size:0.8em;
+}
+</style>
+
+
 
 My research encompasses various facets of statistics and optimization. Below is a list of my publications. You are welcome to contact me if you are interested in one or more of my papers. I am happy to discuss!
 
@@ -14,15 +21,15 @@ Naichen Shi, Hao Yan, Shenghan Guo, Raed Kontar.
 [Link](https://arxiv.org/abs/2407.17720)
 
 <details>
-<summary><sub>Highlights</sub></summary>
+<summary><smlt>Highlights</smlt></summary>
 
-<sub>Diffusion generative models can generate photorealistic images and videos but often struggle to understand the physical interactions. When practitioners from the science and engineering fields have access to physics simulators, can they improve the quality of diffusion model-generated samples with the help of simulations?</sub>
+<smlt>Diffusion generative models can generate photorealistic images and videos but often struggle to understand the physical interactions. When practitioners from the science and engineering fields have access to physics simulators, can they improve the quality of diffusion model-generated samples with the help of simulations?</smlt>
 <p align="center">
   <img src="../images/double_physics_1.jpg" alt="illustration" width="300" style="display: inline-block; margin: 0 10px;"/>
 </p>
-<sub>We explore two strategies to incorporate physics simulation into diffusion models. Results show that our model indeed integrates physics knowledge in heat and fluid dynamics with patterns from real observations. </sub>
+<smlt>We explore two strategies to incorporate physics simulation into diffusion models. Results show that our model indeed integrates physics knowledge in heat and fluid dynamics with patterns from real observations. </smlt>
 </details>
-
+<br>
 
 
 [J8: JMLR minor revision] <ins>**Triple Component Matrix Factorization: Untangling Global, Local, and Noisy Components**</ins> 
