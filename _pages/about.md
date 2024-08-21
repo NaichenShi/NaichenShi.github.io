@@ -46,18 +46,6 @@ Naichen Shi, Raed Al Kontar. *Technometrics*, 2023. [Link](https://www.tandfonli
 <sub> Federated learning (FL) uses data from multiple clients to collectively train predictive models. Challenges arise when marginal distributions on the input are heterogeneous among clients. In such scenarios, training predictive models with existing methods is uneasy as the input distributions can differ and even be non-overlapping.  To address these challenges, we propose a method based on domain adaptation that firstly maps the input into a common feature space, then predict the outputs from the features. We also use a bi-lavel optimization to optimize the feature encoder and decoder. In an application of material extrusion 3D printing, our method demonstrates improved accuracy and robustness predictive performances.</sub>
 
 ![3D printing examples](./images/pflda.png)
----
-
-<ins>**RMSprop converges with proper hyper-parameter**</ins>
-Naichen Shi, Dawei Li, Mingyi Hong, Ruoyu Sun. *International Conference on Learning Representations (ICLR)*, 2021. [Link](https://openreview.net/forum?id=3UDSdyIcBDA), [Video](https://iclr.cc/virtual/2021/spotlight/3415), [Code](https://github.com/soundsinteresting/RMSprop).
-
-
-<sub>Almost every ML/AL practitioner uses adaptive stepsize optimization algorithms (e.g., Adam). Surprisingly, an important theoretical problem was largely unexplored: under what conditions can they converge? We show, both theoretically and numerically, that the good performance of RMSprop and Adam is contingent on the appropriate choice of the exponential averaging parameter $\beta_2$. Only when $\beta_2$ close enough to 1 can (stochastic versions of) Adam and RMSprop generate stable update directions that gradually lead the updates to the optimality. </sub>
-
-<p align="center">
-  <img src="images/adamconverge.png" alt="Adam updates" width="300" style="display: inline-block; margin: 0 10px;"/>
-
-</p>
 
 ---
 
