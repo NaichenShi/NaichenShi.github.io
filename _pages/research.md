@@ -17,7 +17,7 @@ My research encompasses various facets of statistics and optimization. Below is 
 
 [J9: In submission] <ins>**Multi-physics Simulation Guided Generative Diffusion Models with Applications in Fluid and Heat Dynamics**</ins>
 Naichen Shi, Hao Yan, Shenghan Guo, Raed Kontar.
-[Link](https://arxiv.org/abs/2407.17720)
+[Link](https://arxiv.org/abs/2407.17720), [Code](https://github.com/UMDataScienceLab/MGDM).
 
 <details>
 <summary><smlt> Highlights</smlt></summary>
@@ -79,7 +79,7 @@ Naichen Shi, Dawei Li, Mingyi Hong, and Ruoyu Sun. *International Conference on 
 <smlt>Almost every ML/AL practitioner uses adaptive stepsize optimization algorithms (e.g., Adam). Surprisingly, an important theoretical problem was largely unexplored: under what conditions can they converge? We show, both theoretically and numerically, that the good performance of RMSprop and Adam is contingent on the appropriate choice of the exponential averaging parameter $\beta_2$. Only when $\beta_2$ close enough to 1 can (stochastic versions of) Adam and RMSprop generate stable update directions that gradually lead the updates to the optimality. </smlt>
 
 <p align="center">
-  <img src="images/adamconverge.png" alt="Adam updates" width="300" style="display: inline-block; margin: 0 10px;"/>
+  <img src="../images/adamconverge.png" alt="Adam updates" width="300" style="display: inline-block; margin: 0 10px;"/>
 
 </p>
 </details>

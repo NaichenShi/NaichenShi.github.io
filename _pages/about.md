@@ -41,7 +41,7 @@ Naichen Shi, Raed Al Kontar. *Journal of Machine Learning Research (JMLR)*, 2024
 ---
 
 <ins>**Personalized Federated Learning via Domain Adaptation with an Application to Distributed 3D Printing**</ins> 
-Naichen Shi, Raed Al Kontar. *Technometrics*, 2023. [Link](https://www.tandfonline.com/doi/abs/10.1080/00401706.2022.2157882?journalCode=utch20), [Video](https://www.youtube.com/watch?v=wOV8ZwdHgJ0), [Code](https://github.com/UMDataScienceLab/Personalized_FL_with_DA).
+Naichen Shi, Raed Al Kontar. *Technometrics*, 2023. [Link](https://www.tandfonline.com/doi/abs/10.1080/00401706.2022.2157882?journalCode=utch20), [Code](https://github.com/UMDataScienceLab/Personalized_FL_with_DA).
 
 <sub> Federated learning (FL) uses data from multiple clients to collectively train predictive models. Challenges arise when marginal distributions on the input are heterogeneous among clients. In such scenarios, training predictive models with existing methods is uneasy as the input distributions can differ and even be non-overlapping.  To address these challenges, we propose a method based on domain adaptation that firstly maps the input into a common feature space, then predict the outputs from the features. We also use a bi-lavel optimization to optimize the feature encoder and decoder. In an application of material extrusion 3D printing, our method demonstrates improved accuracy and robustness predictive performances.</sub>
 
