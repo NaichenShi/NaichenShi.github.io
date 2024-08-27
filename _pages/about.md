@@ -53,9 +53,9 @@ Naichen Shi, Raed Al Kontar. *Technometrics*, 2023. [Link](https://www.tandfonli
 
 News
 ======
-- July 2024: I presented our paper,  "Multi-physics Simulation Guided Generative Diffusion Models with Applications in Fluid and Heat Dynamics", at ICQSR 2024, in Como, Italy.
+- July 2024: I presented our paper,  "Multi-physics Simulation Guided Generative Diffusion Models with Applications in Fluid and Heat Dynamics", at [ICQSR 2024](https://www.icqsr24.polimi.it/), in Como, Italy.
 
-- June 2024: Our paper, "Triple Component Matrix Factorization: Untangling Global, Local, and Noisy Components", won the Wilson prize!
+- June 2024: Our paper, "Triple Component Matrix Factorization: Untangling Global, Local, and Noisy Components", won the [Wilson prize](https://ioe.engin.umich.edu/2024/05/10/ioe-graduate-class-of-2024/#:~:text=The%20Wilson%20Prize%20was%20won,any%20application%20of%20Industrial%20Engineering.)!
 
 - October 2023: Our paper, "Personalized Tucker Decomposition: Modeling Commonality and Peculiarity on Tensor Data",  is selected as the finalist of the INFORMS 2023 QSR best refereed paper competition!
 
