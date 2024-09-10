@@ -23,7 +23,7 @@ vertical-align: middle;">
 </div>
 
 <div style="padding: 15px; border: 0px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 8px;  background-color: #dff0d8; border-color: #d6e9c6;">
-I am selected as a finalist in the Data Mining Best Paper Competition at INFORMS 2024.
+I am selected as a finalist in the <a href="https://connect.informs.org/communities/community-home/digestviewer/viewthread?GroupId=469&MessageKey=e1098b1d-0146-422f-a919-3f9d7c687678&CommunityKey=1d5653fa-85c8-46b3-8176-869b140e5e3c&hlmlt=VT">Data Mining Best Paper Competition</a> at INFORMS 2024. I will be presenting my work on October 23, 2024, at 8:00 AM in Regency - 704.
 </div>
 
 

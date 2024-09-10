@@ -4,17 +4,26 @@ permalink: /service/
 author_profile: true
 ---
 
+<style>
+.mykeyword {
+    color: #57342a;
+    display: inline;
+}
+</style>
+
+
+
 I am an active member of my communities, eager to promote equity and fairness in education system and beyond.
 
 ## Campus engagement
 
-[MSSISS 2023 organizing comittee] I am a student representative and fundraiser of the 2023 Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS). The MSSISS is an annual 2-day event organized by graduate students. 
+<span class="mykeyword">[MSSISS 2023 organizing comittee]</span> I am a student representative and fundraiser of the 2023 Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS). The MSSISS is an annual 2-day event organized by graduate students. 
 
 ## INFORMS community
 
-[INFORMS Pro Bono Group] I am a core member of the University of Michigan INFORMS Pro Bono group. Our mission is to advance housing equity across the state of Michigan by leveraging techniques from operations research and data analytics. More specifically, we partner with community leaders from manufactured housing communities to drive legislative change. To support this objective, we clean and organize demographic and socioeconomic data, then apply data visualization and analytics techniques to generate evidence for legislative advocacy.
+<span class="mykeyword">[INFORMS Pro Bono Group]</span> I am a core member of the University of Michigan INFORMS Pro Bono group. Our mission is to advance housing equity across the state of Michigan by leveraging techniques from operations research and data analytics. More specifically, we partner with community leaders from manufactured housing communities to drive legislative change. To support this objective, we clean and organize demographic and socioeconomic data, then apply data visualization and analytics techniques to generate <a href="https://hessakh.shinyapps.io/michigan_housing1/">evidence</a> for legislative advocacy.
 
-[Membership] I am a member of INFORMS QSR community and Data Mining society.
+<span class="mykeyword">[Membership]</span> I am a member of INFORMS QSR community and Data Mining society.
 
 ## Reviewer services
 
