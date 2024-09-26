@@ -15,7 +15,7 @@ redirect_from:
 }
 </style>
 
-Welcome! I am a Ph.D. candidate in the Department of Industrial and Operations Engineering at the University of Michigan, advised by [Dr. Raed Al Kontar](https://alkontar.engin.umich.edu/). My research is driven by the need for novel statistical and optimization methodologies addressing scientific and engineering challenges across diverse domains, including the Internet of Things, smart manufacturing, and spatial transcriptomics. I am also interested in investigating the theoretical underpinnings of these methods. In particular, my current research in **personalized, collaborative, and decentralized** data analytics explores computational techniques to integrate knowledge from multiple sources and builds tailored machine-learning models.  
+Welcome! I am a Ph.D. candidate in the Department of Industrial and Operations Engineering at the University of Michigan, advised by [Dr. Raed Al Kontar](https://alkontar.engin.umich.edu/). My research is driven by the need for novel statistical and optimization methodologies addressing scientific and engineering challenges across diverse domains, including distributed data ecosystems, Digital Twins, smart manufacturing, and spatial transcriptomics. I am also interested in investigating the theoretical underpinnings of these methods. In particular, my current research in **personalized, collaborative, and decentralized** data analytics explores computational techniques to integrate knowledge from multiple sources and builds tailored machine-learning models.  
 
 <div style="padding: 15px; border: 0px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 8px;  background-color: #dff0d8; border-color: #d6e9c6;text-align: center;
 vertical-align: middle;">
@@ -23,7 +23,11 @@ vertical-align: middle;">
 </div>
 
 <div style="padding: 15px; border: 0px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 8px;  background-color: #dff0d8; border-color: #d6e9c6;">
-I am selected as a finalist in the <a href="https://connect.informs.org/communities/community-home/digestviewer/viewthread?GroupId=469&MessageKey=e1098b1d-0146-422f-a919-3f9d7c687678&CommunityKey=1d5653fa-85c8-46b3-8176-869b140e5e3c&hlmlt=VT">Data Mining Best Paper Competition</a> at INFORMS 2024. I will be presenting my work on October 23, 2024, at 8:00 AM in Regency - 704.
+I am selected as a finalist in <b>two</b> best paper competitions at INFORMS 2024! <br>
+
+<b>One</b> is the Quality, Statistics, and Reliability (QSR) Best Referred Paper Competition. I will be presenting this work on October 20, from 8:00 AM to 9:15 AM in Summit – 321. <br>
+
+<b>The other</b> is the <a href="https://connect.informs.org/communities/community-home/digestviewer/viewthread?GroupId=469&MessageKey=e1098b1d-0146-422f-a919-3f9d7c687678&CommunityKey=1d5653fa-85c8-46b3-8176-869b140e5e3c&hlmlt=VT">Data Mining Best Paper Competition</a>. This work will be presented on October 23, 2024, at 8:00 AM in Regency - 704.
 </div>
 
 
