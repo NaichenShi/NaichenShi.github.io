@@ -25,9 +25,15 @@ vertical-align: middle;">
 <div style="padding: 15px; border: 0px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 8px;  background-color: #dff0d8; border-color: #d6e9c6;">
 I am selected as a finalist in <b>two</b> best paper competitions at INFORMS 2024! <br>
 
-<b>One</b> is the Quality, Statistics, and Reliability (QSR) Best Referred Paper Competition. I will be presenting this work on October 20, from 8:00 AM to 9:15 AM in Summit – 321. <br>
+<ul>
+  <li><i>Session:</i> Quality, Statistics, and Reliability (QSR) Best Referred Paper Competition. <br>
+  <i>Title:</i> Multi-physics Simulation Guided Generative Diffusion Models with Applications in Fluid and Heat Dynamics. <br>
+  <i>Time & Location:</i> October 20, at 8:00 AM in Summit – 321</li>
+  <li> <i>Session:</i> <a href="https://connect.informs.org/communities/community-home/digestviewer/viewthread?GroupId=469&MessageKey=e1098b1d-0146-422f-a919-3f9d7c687678&CommunityKey=1d5653fa-85c8-46b3-8176-869b140e5e3c&hlmlt=VT">Data Mining Best Paper Competition</a>. <br>
+  <i>Title:</i> Triple Component Matrix Factorization: Untangling Global, Local, and Noisy Components. <br>
+  <i>Time & Location:</i> October 23, 2024, at 8:00 AM in Regency - 704</li>
+</ul>
 
-<b>The other</b> is the <a href="https://connect.informs.org/communities/community-home/digestviewer/viewthread?GroupId=469&MessageKey=e1098b1d-0146-422f-a919-3f9d7c687678&CommunityKey=1d5653fa-85c8-46b3-8176-869b140e5e3c&hlmlt=VT">Data Mining Best Paper Competition</a>. This work will be presented on October 23, 2024, at 8:00 AM in Regency - 704.
 </div>
 
 
@@ -76,6 +82,8 @@ Naichen Shi, Raed Al Kontar. *Technometrics*, 2023. [Link](https://www.tandfonli
 
 News
 ======
+- September 2024: Our paper, "Multi-physics Simulation Guided Generative Diffusion Models with Applications in Fluid and Heat Dynamics," is selected as the finalist for the QSR best paper competition in INFORMS, 2024!
+
 - September 2024: Our paper, "Triple Component Matrix Factorization: Untangling Global, Local, and Noisy Components," is selected as the finalist for the Data Mining best paper competition in INFORMS, 2024!
 
 - July 2024: I presented our paper,  "Multi-physics Simulation Guided Generative Diffusion Models with Applications in Fluid and Heat Dynamics", at [ICQSR 2024](https://www.icqsr24.polimi.it/), in Como, Italy.
