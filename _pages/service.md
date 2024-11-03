@@ -25,7 +25,7 @@ I am an active member of my communities, eager to promote equity and fairness in
 
 <span class="mykeyword">[INFORMS Pro Bono Group]</span> I am a core member of the University of Michigan INFORMS Pro Bono group. Our mission is to advance housing equity across the state of Michigan by leveraging techniques from operations research and data analytics. More specifically, we partner with community leaders from manufactured housing communities to drive legislative change. To support this objective, we clean and organize demographic and socioeconomic data, then apply data visualization and analytics techniques to generate <a href="https://hessakh.shinyapps.io/michigan_housing1/">evidence</a> for legislative advocacy.
 
-<span class="mykeyword">[INFORMS Student Chapter]</span> I am the chair of the social committee of the INFORMS Student Chapter at the University of Michigan. I help prepare dessert for the biweekly coffee chat. Please let me know if you have any preferences!
+<span class="mykeyword">[INFORMS Student Chapter]</span> I am the chair of the social committee of the INFORMS Student Chapter at the University of Michigan. I help prepare dessert and coffee for the biweekly coffee chat. Please let me know if you have any preferences!
 
 <span class="mykeyword">[Membership]</span> I am a member of INFORMS QSR community and Data Mining society.
 

@@ -33,19 +33,18 @@ Naichen Shi, Hao Yan, Shenghan Guo, Raed Kontar.
 <br>
 
 
-[J8: JMLR minor revision] <ins>**Triple Component Matrix Factorization: Untangling Global, Local, and Noisy Components**</ins> 
-Naichen Shi, Salar Fattahi, Raed Al Kontar. *Journal of Machine Learning Research (JMLR)*, 2024. [Link](https://arxiv.org/abs/2404.07955)
-
-[J7: Technometrics] <ins>**Personalized Tucker Decomposition: Modeling Commonality and Peculiarity on Tensor Data**</ins> 
-Jiuyun Hu, Naichen Shi, Raed Kontar, Hao Yan. *Technometrics*, 2024. [Link](https://arxiv.org/abs/2309.03439)
-
-
-[J6: In submission] <ins>**Heterogeneous Matrix Factorization: When Features Differ by Dataset**</ins>
+[J8: In submission] <ins>**Heterogeneous Matrix Factorization: When Features Differ by Dataset**</ins>
 Naichen Shi, Salar Fattahi, Raed Kontar.
 [Link](https://arxiv.org/abs/2305.17744)
 
 
 ## Journal papers
+
+[J7: JMLR] <ins>**Triple Component Matrix Factorization: Untangling Global, Local, and Noisy Components**</ins> 
+Naichen Shi, Salar Fattahi, Raed Al Kontar. *Journal of Machine Learning Research (JMLR)*, 2024. [Link](https://arxiv.org/abs/2404.07955)
+
+[J6: Technometrics] <ins>**Personalized Tucker Decomposition: Modeling Commonality and Peculiarity on Tensor Data**</ins> 
+Jiuyun Hu, Naichen Shi, Raed Kontar, Hao Yan. *Technometrics*, 2024. [Link](https://arxiv.org/abs/2309.03439)
 
 [J5: JMLR] <ins>**Personalized PCA: Decoupling Shared and Unique Features**</ins> 
 Naichen Shi, Raed Al Kontar. *Journal of Machine Learning Research (JMLR)*, 2024. [Link](https://www.jmlr.org/papers/v25/22-0810.html), [Video](https://www.youtube.com/watch?v=9XWY745ZFPM), [Code](https://github.com/UMDataScienceLab/Personalized_PCA).
