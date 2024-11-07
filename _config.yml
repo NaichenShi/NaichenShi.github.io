@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "naichen-shi.jpg"
+  avatar           : "square.png"
   name             : "Naichen Shi"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate from the department of Industrial and Operations Engineering"
