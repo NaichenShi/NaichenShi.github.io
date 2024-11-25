@@ -45,7 +45,7 @@ I am proud to serve as a reviewer of multiple conferences and journals. A list i
 
 - Reviewer of ICML 2024.
 
-- Reviewer of AISTATS 2023, AISTATS 2022.
+- Reviewer of AISTATS 2024, AISTATS 2023, AISTATS 2022.
 
 ### Journal
 
