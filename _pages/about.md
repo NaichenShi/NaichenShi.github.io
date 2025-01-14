@@ -15,17 +15,14 @@ redirect_from:
 }
 </style>
 
-Welcome! I am a Ph.D. candidate in the Department of Industrial and Operations Engineering at the University of Michigan, advised by [Dr. Raed Al Kontar](https://alkontar.engin.umich.edu/). My research is driven by the need for novel statistical and optimization methodologies addressing scientific and engineering challenges across diverse domains, including distributed data ecosystems, Digital Twins, smart manufacturing, and spatial transcriptomics. I am also interested in investigating the theoretical underpinnings of these methods. In particular, my current research in **personalized, collaborative, and decentralized** data analytics explores computational techniques to integrate knowledge from multiple sources and builds tailored machine-learning models.  
+Welcome! I am a Ph.D. candidate in the Department of Industrial and Operations Engineering at the University of Michigan, advised by [Dr. Raed Al Kontar](https://alkontar.engin.umich.edu/). My research is driven by the need for novel statistical and optimization methodologies addressing scientific and engineering challenges across diverse domains, including distributed data ecosystems, Digital Twins, and smart manufacturing. I am also interested in investigating the theoretical underpinnings of these methods. In particular, my current research in **personalized, collaborative, and decentralized** data analytics explores computational techniques to integrate knowledge from multiple sources and builds tailored machine-learning models.  
 
-<div style="padding: 15px; border: 0px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 8px;  background-color: #dff0d8; border-color: #d6e9c6;text-align: center;
+<div style="padding: 15px; border: 0px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 8px;  background-color:rgb(249, 230, 251); border-color: rgbrgb(249, 230, 251);text-align: center;
 vertical-align: middle;">
-<b>I am looking for academic positions!</b>
+I will join the <a href="https://www.mccormick.northwestern.edu/industrial/">Department of Industrial Engineering and Management Sciences (IEMS) </a> and the <a href="https://www.mccormick.northwestern.edu/mechanical/">Department of Mechanical Engineering (ME) </a> at Northwestern University as an assistant professor starting in September 2025.
 </div>
 
-<div style="padding: 15px; border: 0px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 8px;  background-color: #dff0d8; border-color: #d6e9c6;">
-I am the <b>winner</b> of the 2024 <a href="https://connect.informs.org/data-mining/awards/new-item22275866739965778">Best General Paper Competition</a> in INFORMS Data Mining Society!
 
-</div>
 
 
 Featured papers
@@ -46,11 +43,10 @@ Naichen Shi, Raed Al Kontar. *Journal of Machine Learning Research (JMLR)*, 2024
 
 <div class="myresearchdetails"> <b>Identifiability</b> is a key hurdle as the global PCs can be confounded with local PCs in data. We propose a <i>misalignment condition</i> that measures the "smallest difference" among the subspaces spanned by global PCs. The condition helps us establish an upper bound on the statistical error of the global and local PCs, which almost matches their lower bound. Intriguingly, the results suggest that a higher level of heterogeneity can decrease the statistical error in our method, a benefit of personalization.  </div>
 
-<div class="myresearchdetails"> Despite the simplicity, Personalized PCA and its derivatives have proven valuable in a variety of fields, including  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0278612524000694"><b>additive manufacturing</b></a>, <a href="https://arxiv.org/pdf/2309.03439"><b>solar flare detection</b></a>, and <b>spatial transcriptomics analysis</b>.</div>
+<div class="myresearchdetails"> Despite the simplicity, Personalized PCA and its derivatives have proven valuable in a variety of fields, including  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0278612524000694"><b>additive manufacturing</b></a>, <a href="https://arxiv.org/pdf/2309.03439"><b>solar flare detection</b></a>.</div>
 
 <p align="center">
   <img src="images/3dprinting.png" alt="3D printing" width="250" style="display: inline-block; margin: 0 10px;"/>
-  <img src="images/srt.png" alt="Spatial transcriptomics" width="100" style="display: inline-block; margin: 0 10px;"/>
   <img src="images/solarflare.png" alt="Solar flare" width="220" style="display: inline-block; margin: 0 10px;"/>
 </p>
 

@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/informs2024dm
 venue: "INFORMS 2024 Annual Meeting"
-date: 2024-10-23
+date: 2024-10-21
 location: "Seattle, USA"
 ---
 

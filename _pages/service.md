@@ -53,6 +53,8 @@ I am proud to serve as a reviewer of multiple conferences and journals. A list i
 
 - Reviewer of IEEE TPAMI.
 
+- Reviewer of IEEE SPL.
+
 - Reviewer of Technometrics.
 
 - Reviewer of IEEE TASE.
