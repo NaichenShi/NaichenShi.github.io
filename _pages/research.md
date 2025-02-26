@@ -27,6 +27,15 @@ Naichen Shi, Hao Yan, Shenghan Guo, Raed Kontar.
   <img src="../images/double_physics_1.jpg" alt="illustration" width="300" style="display: inline-block; margin: 0 10px;"/>
 </p>
 
+Here's a generated video.
+
+<p align="center">
+  <video width="300" controls>
+    <source src="../images/printsurface.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
 <smlt>We explore two strategies to incorporate physics simulation into diffusion models. Results show that our model indeed integrates physics knowledge in heat and fluid dynamics with patterns from real observations. </smlt>
 
 </details>
