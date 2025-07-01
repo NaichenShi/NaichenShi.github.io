@@ -15,8 +15,19 @@ My research encompasses various facets of statistics and optimization. Below is 
 
 ## Preprints and paper in progress
 
-[J9: In submission] <ins>**Multi-physics Simulation Guided Generative Diffusion Models with Applications in Fluid and Heat Dynamics**</ins>
-Naichen Shi, Hao Yan, Shenghan Guo, Raed Kontar.
+[J10: In submission] <ins>**Inv-Entropy: A Fully Probabilistic Framework for Uncertainty Quantification in Language Models**</ins>
+Haoyi Song, Ruihan Ji, Naichen Shi, Fan Lai, Raed Al Kontar.
+[Link](https://arxiv.org/abs/2506.09684)
+
+[J9: In submission] <ins>**Heterogeneous Matrix Factorization: When Features Differ by Dataset**</ins>
+Naichen Shi, Salar Fattahi, Raed Kontar.
+[Link](https://arxiv.org/abs/2305.17744)
+
+
+## Journal papers
+
+[J8: IEEE T-ASE] <ins>**Diffusion-Based Surrogate Modeling and Multi-Fidelity Calibration**</ins>
+Naichen Shi, Hao Yan, Shenghan Guo, Raed Kontar. *IEEE Transactions on Automation Science and Engineering*, 2025.
 [Link](https://arxiv.org/abs/2407.17720), [Code](https://github.com/UMDataScienceLab/MGDM).
 
 <details>
@@ -42,13 +53,6 @@ Here's a generated video.
 <br>
 
 
-[J8: In submission] <ins>**Heterogeneous Matrix Factorization: When Features Differ by Dataset**</ins>
-Naichen Shi, Salar Fattahi, Raed Kontar.
-[Link](https://arxiv.org/abs/2305.17744)
-
-
-## Journal papers
-
 [J7: JMLR] <ins>**Triple Component Matrix Factorization: Untangling Global, Local, and Noisy Components**</ins> 
 Naichen Shi, Salar Fattahi, Raed Al Kontar. *Journal of Machine Learning Research (JMLR)*, 2024. [Link](https://jmlr.org/papers/v25/24-0400.html)
 
@@ -63,7 +67,7 @@ Naichen Shi, Raed Al Kontar. *Journal of Machine Learning Research (JMLR)*, 2024
 [J3: Technometrics] <ins>**Personalized Federated Learning via Domain Adaptation with an Application to Distributed 3D Printing**</ins> 
 Naichen Shi, Raed Al Kontar. *Technometrics*, 2023. [Link](https://www.tandfonline.com/doi/abs/10.1080/00401706.2022.2157882?journalCode=utch20), [Video](https://www.youtube.com/watch?v=wOV8ZwdHgJ0), [Code](https://github.com/UMDataScienceLab/Personalized_FL_with_DA).
 
-[J2: TASE] <ins>**Fed-ensemble: Ensemble Models in Federated Learning for Improved Generalization and Uncertainty Quantification**</ins> Naichen Shi, Raed Al Kontar. *IEEE Transactions on Automation Science and Engineering*, 2022. [Link](https://ieeexplore.ieee.org/document/10113748), [Code](https://github.com/UMDataScienceLab/fedensemble).
+[J2: IEEE T-ASE] <ins>**Fed-ensemble: Ensemble Models in Federated Learning for Improved Generalization and Uncertainty Quantification**</ins> Naichen Shi, Raed Al Kontar. *IEEE Transactions on Automation Science and Engineering*, 2022. [Link](https://ieeexplore.ieee.org/document/10113748), [Code](https://github.com/UMDataScienceLab/fedensemble).
 
 [J1: IEEE Access] <ins>**The Internet of Federated Things**</ins> Raed Kontar, Naichen Shi, Xubo Yue, Seokhyun Chung, Eunshin Byon, Mosharaf Chowdhury, Judy Jin, Wissam Kontar, Neda Masoud, Maher Noueihed, Chinedum E. Okwudire, Garvesh Raskutti, Romesh Saigal, Karandeep Singh, and Zhisheng Ye,  *IEEE Access*, 2021. [Link](https://ieeexplore.ieee.org/document/9611259).
 

@@ -12,7 +12,7 @@ author_profile: true
 </style>
 
 ## Prospective students
-We are actively recruiting motivated Ph.D. students to join our research lab! Our work lies at the intersection of data science, optimization, and manufacturing AI. I am happy to work with students eager to explore these areas.
+We are actively recruiting motivated Ph.D. students to join our research lab! Our work lies at the intersection of data science, optimization, and manufacturing AI. I am happy to work with students with academic ambitions who are eager to explore these areas.
 
 If you are a current Northwestern student, feel free to reach out to me via email. We welcome students from all backgrounds who are passionate about advancing research frontiers.
 
