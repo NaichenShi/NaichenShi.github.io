@@ -15,7 +15,7 @@ redirect_from:
 }
 </style>
 
-Welcome! I am an incoming assistant professor in the <a href="https://www.mccormick.northwestern.edu/industrial/">Department of Industrial Engineering and Management Sciences (IEMS) </a> and the <a href="https://www.mccormick.northwestern.edu/mechanical/">Department of Mechanical Engineering (ME) </a> at Northwestern University. I obtained my Ph.D. from the Department of Industrial and Operations Engineering at the University of Michigan. My research is driven by the need for novel statistical and optimization methodologies addressing scientific and engineering challenges across diverse domains, including distributed data ecosystems, Digital Twins, and smart manufacturing. I am also interested in investigating the theoretical underpinnings of these methods. In particular, my current research in **personalized, collaborative, and decentralized** data analytics explores computational techniques to integrate knowledge from multiple sources and builds tailored machine-learning models.  
+Welcome! I am an assistant professor in the <a href="https://www.mccormick.northwestern.edu/industrial/">Department of Industrial Engineering and Management Sciences (IEMS) </a> and the <a href="https://www.mccormick.northwestern.edu/mechanical/">Department of Mechanical Engineering (ME) </a> at Northwestern University. I obtained my Ph.D. from the Department of Industrial and Operations Engineering at the University of Michigan. My research is driven by the need for novel statistical and optimization methodologies addressing scientific and engineering challenges across diverse domains, including distributed data ecosystems, Digital Twins, and smart manufacturing. I am also interested in investigating the theoretical underpinnings of these methods. In particular, my current research in **personalized, collaborative, and decentralized** data analytics explores computational techniques to integrate knowledge from multiple sources and builds tailored machine-learning models.  
 
 
 
@@ -48,17 +48,6 @@ Naichen Shi, Raed Al Kontar. *Journal of Machine Learning Research (JMLR)*, 2024
 </p>
 
 <div class="myresearchdetails"> An article from <a href="https://phys.org/news/2024-03-statistical-tool-distinguish-unique-features.html">Phys.org</a> reports this method. </div>
-
----
-
-<ins>**Personalized Federated Learning via Domain Adaptation with an Application to Distributed 3D Printing**</ins> 
-Naichen Shi, Raed Al Kontar. *Technometrics*, 2023. [Link](https://www.tandfonline.com/doi/abs/10.1080/00401706.2022.2157882?journalCode=utch20), [Code](https://github.com/UMDataScienceLab/Personalized_FL_with_DA).
-
-<div class="myresearchdetails"> Federated learning (FL) uses data from multiple clients to collectively train predictive models. Challenges arise when marginal distributions on the input are heterogeneous among clients. In such scenarios, training predictive models with existing methods is uneasy as the input distributions can differ and even be non-overlapping.  To address these challenges, we propose a method based on domain adaptation that firstly maps the input into a common feature space, then predict the outputs from the features. We also use a bi-lavel optimization to optimize the feature encoder and decoder. In an application of material extrusion 3D printing, our method demonstrates improved accuracy and robustness predictive performances.</div>
-
-<p align="center">
-  <img src="./images/pflda.png" alt="3D printing examples" width="450" style="display: inline-block; margin: 0 10px;"/>
-</p>
 
 ---
 
