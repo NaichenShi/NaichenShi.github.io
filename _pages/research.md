@@ -15,9 +15,9 @@ My research encompasses various facets of statistics and optimization. Below is 
 
 ## Preprints and paper in progress
 
-[J10: In submission] <ins>**Inv-Entropy: A Fully Probabilistic Framework for Uncertainty Quantification in Language Models**</ins>
-Haoyi Song, Ruihan Ji, Naichen Shi, Fan Lai, Raed Al Kontar.
-[Link](https://arxiv.org/abs/2506.09684)
+[J10: In submission] <ins>**ALBATROSS: Cheap Filtration Based Geometry via Stochastic Sub-Sampling**</ins>
+Andrew J Stier, Naichen Shi, Raed Al Kontar, Chad Giusti, Marc G Berman.
+[Link](https://arxiv.org/abs/2509.03681)
 
 [J9: In submission] <ins>**Heterogeneous Matrix Factorization: When Features Differ by Dataset**</ins>
 Naichen Shi, Salar Fattahi, Raed Kontar.
@@ -73,6 +73,10 @@ Naichen Shi, Raed Al Kontar. *Technometrics*, 2023. [Link](https://www.tandfonli
 
 
 ## Conference papers
+
+[C5: NeurIPS] <ins>**Inv-Entropy: A Fully Probabilistic Framework for Uncertainty Quantification in Language Models**</ins>
+Haoyi Song, Ruihan Ji, Naichen Shi, Fan Lai, Raed Al Kontar. *The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2025.
+[Link](https://arxiv.org/abs/2506.09684)
 
 [C4: NeurIPS Spotlight] <ins>**Personalized Dictionary Learning for Heterogeneous Datasets**</ins> Geyu Liang, Naichen Shi, Raed Al Kontar, Salar Fattahi.  *Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS)*, 2023. [Link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9f6f790f28a31fba89644f09faf4e0cb-Abstract-Conference.html), [Code](https://github.com/lianggeyuleo/PerMA). 
 
