@@ -37,7 +37,7 @@ Wenxi Cai, Yuheng Wang, Naichen Shi, 2025. [Link pending].
   <img src="images/cpfm.png" alt="CPFM" width="400" style="display: inline-block; margin: 0 10px;"/>
 </p>
 
-<div class="myresearchdetails">We develop a Coupled Flow Matching framework that unifies optimal transport and generative modeling. It consists of two components: an efficient solver for a generalized form of Goromov-Wasserstein optimal transport, and a dual conditional flow-matching network that learns bidirectional mappings between data and embeddings.
+<div class="myresearchdetails">We develop a Coupled Flow Matching framework that unifies optimal transport and generative modeling. It consists of two components: an efficient solver for a generalized form of Gromov-Wasserstein optimal transport, and a dual conditional flow-matching network that learns bidirectional mappings between data and embeddings.
 Together, they enable mapping complex, high-dimensional data into controllable low-dimensional representations, and generating realistic data samples from them.</div>
 
 <p align="center">

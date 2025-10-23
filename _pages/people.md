@@ -13,11 +13,14 @@ author_profile: true
 
 Our lab hosts a group of talented students!
 
-## PhD students
+## Current students
 
 - Lei Cao
 - Jinhua Lyu
 - Yixuan Florence Wu
+- Wenxi Cai
+- Yuheng Wang
+
 
 ## Prospective students
 Our work lies at the intersection of data science, optimization, and manufacturing AI. I am happy to work with students with academic ambitions who are eager to explore these areas.
