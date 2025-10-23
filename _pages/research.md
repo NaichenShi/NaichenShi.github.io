@@ -10,10 +10,27 @@ smlt {
 
 </style>
 
+<style>
+.myresearchdetails {
+    font-size:0.8em;
+    padding-left: 20px;
+    margin: 10px;
+}
+</style>
+
 My research encompasses various facets of statistics and optimization. Below is a list of my publications. You are welcome to contact me if you are interested in one or more of my papers. I am happy to discuss!
 
+Names of my students are <u>underlined</u>.
 
 ## Preprints and paper in progress
+
+[C7: In submission] <ins>**Calibrated Principal Component Regression**</ins>
+<u>Yixuan Florence Wu</u>, Yilun Zhu, <u>Lei Cao</u>, Naichen Shi.
+[Link](https://arxiv.org/abs/2510.19020)
+
+[C6: In submission] <ins>**Domain Generalization: A Tale of Two ERMs**</ins>
+Yilun Zhu, Naihao Deng, Naichen Shi, Aditya Gangrade, Clayton Scott.
+[Link](https://www.arxiv.org/abs/2510.04441)
 
 [J10: In submission] <ins>**ALBATROSS: Cheap Filtration Based Geometry via Stochastic Sub-Sampling**</ins>
 Andrew J Stier, Naichen Shi, Raed Al Kontar, Chad Giusti, Marc G Berman.
@@ -61,6 +78,29 @@ Jiuyun Hu, Naichen Shi, Raed Kontar, Hao Yan. *Technometrics*, 2024. [Link](http
 
 [J5: JMLR] <ins>**Personalized PCA: Decoupling Shared and Unique Features**</ins> 
 Naichen Shi, Raed Al Kontar. *Journal of Machine Learning Research (JMLR)*, 2024. [Link](https://www.jmlr.org/papers/v25/22-0810.html), [Video](https://www.youtube.com/watch?v=9XWY745ZFPM), [Code](https://github.com/UMDataScienceLab/Personalized_PCA).
+
+<details>
+<summary><smlt> Highlights</smlt></summary>
+<div > When data are collected from multiple related but heterogeneous sources, how can we efficiently integrate the common information among these sources? How to describe and make use of the unique feature in each source? We take advantage of the feature extraction power of principal component analysis (PCA). More specifically, we use global principal components (PCs) to model the common information and local principal components to capture the unique information.  </div>
+
+<p align="center">
+  <img src="../images/perpca.png" alt="Personalized PCA" width="450" style="display: inline-block; margin: 0 10px;"/>
+</p>
+
+
+<div > <b>Identifiability</b> is a key hurdle as the global PCs can be confounded with local PCs in data. We propose a <i>misalignment condition</i> that measures the "smallest difference" among the subspaces spanned by global PCs. The condition helps us establish an upper bound on the statistical error of the global and local PCs, which almost matches their lower bound. Intriguingly, the results suggest that a higher level of heterogeneity can decrease the statistical error in our method, a benefit of personalization.  </div>
+
+<div > Despite the simplicity, Personalized PCA and its derivatives have proven valuable in a variety of fields, including  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0278612524000694"><b>additive manufacturing</b></a>, <a href="https://arxiv.org/pdf/2309.03439"><b>solar flare detection</b></a>.</div>
+
+<p align="center">
+  <img src="../images/3dprinting.png" alt="3D printing" width="250" style="display: inline-block; margin: 0 10px;"/>
+  <img src="../images/solarflare.png" alt="Solar flare" width="220" style="display: inline-block; margin: 0 10px;"/>
+</p>
+
+<div > An article from <a href="https://phys.org/news/2024-03-statistical-tool-distinguish-unique-features.html">Phys.org</a> reports this method. </div>
+
+</details>
+<br>
 
 [J4: JMS] <ins>**Personalized feature extraction for manufacturing process signature characterization and anomaly detection**</ins> Naichen Shi, Shenghan Guo, Raed Al Kontar. *Journal of Manufacturing Systems*, 2024. [Link](https://www.sciencedirect.com/science/article/pii/S0278612524000694).
 
