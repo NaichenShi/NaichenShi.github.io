@@ -31,14 +31,14 @@ A few topics of my research are introduced below.
 <ins>**Coupled Flow Matching**</ins> 
 Wenxi Cai, Yuheng Wang, Naichen Shi, 2025. [Link pending].
 
-Many nonlinear dimension-reduction methods, such as EigenMaps, t-SNE, UMAP, and VAEs, map high-dimensional data into informative low-dimensional embeddings. But what if we want to explicitly control the distribution of these embeddings?
+<div class="myresearchdetails">Many nonlinear dimension-reduction methods, such as EigenMaps, t-SNE, UMAP, and VAEs, map high-dimensional data into informative low-dimensional embeddings. But what if we want to explicitly control the distribution of these embeddings? </div>
 
 <p align="center">
   <img src="images/cpfm.png" alt="CPFM" width="400" style="display: inline-block; margin: 0 10px;"/>
 </p>
 
-We develop a Coupled Flow Matching framework that unifies optimal transport and generative modeling. It consists of two components: an efficient solver for a generalized form of Goromov-Wasserstein optimal transport, and a dual conditional flow-matching network that learns bidirectional mappings between data and embeddings.
-Together, they enable mapping complex, high-dimensional data into controllable low-dimensional representations, and generating realistic data samples from them.
+<div class="myresearchdetails">We develop a Coupled Flow Matching framework that unifies optimal transport and generative modeling. It consists of two components: an efficient solver for a generalized form of Goromov-Wasserstein optimal transport, and a dual conditional flow-matching network that learns bidirectional mappings between data and embeddings.
+Together, they enable mapping complex, high-dimensional data into controllable low-dimensional representations, and generating realistic data samples from them.</div>
 
 <p align="center">
   <img src="images/recon_real.png" alt="QM9" width="400" style="display: inline-block; margin: 0 10px;"/>
@@ -47,12 +47,12 @@ Together, they enable mapping complex, high-dimensional data into controllable l
 <ins>**Calibrated Principal Component Regression**</ins> 
 Yixuan Florence Wu, Yilun Zhu, Lei Cao, Naichen Shi, 2025. [Link](https://arxiv.org/abs/2510.19020).
 
-When we reduce the dimension of the input data using PCA, we reduce data complexity by retaining only most relevant information. However, using only top PCA embeddings for downstream analytics, such as regression, always brings risks as meaningful information in the remaining PCs could be discarded.
+<div class="myresearchdetails">When we reduce the dimension of the input data using PCA, we reduce data complexity by retaining only most relevant information. However, using only top PCA embeddings for downstream analytics, such as regression, always brings risks as meaningful information in the remaining PCs could be discarded.</div>
 <p align="center">
   <img src="images/pcr_cpcr_intro.png" alt="CPCR" width="200" style="display: inline-block; margin: 0 10px;"/>
 </p>
 
-We introduce a Calibrated Principal Component Regression model that leverages cross-fitting to restore some information lost in PCA. A risk analysis grounded the random matrix theory reveals the optimal tradeoff between bias and variance. 
+<div class="myresearchdetails">We introduce a Calibrated Principal Component Regression model that leverages cross-fitting to restore some information lost in PCA. A risk analysis grounded the random matrix theory reveals the optimal tradeoff between bias and variance. </div>
 
 ---
 
