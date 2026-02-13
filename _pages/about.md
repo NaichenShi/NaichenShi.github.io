@@ -28,21 +28,20 @@ A few topics of my research are introduced below.
 
 ---
 
-<ins>**Coupled Flow Matching**</ins> 
-Wenxi Cai, Yuheng Wang, Naichen Shi, 2025. [Link pending].
+<ins>**Scalable Mean-Field Variational Inference via Preconditioned Primal-Dual Optimization**</ins> 
+Jinhua Lyu, Tianmin Yu, Ying Ma, Naichen Shi, 2026. [Link](https://arxiv.org/abs/2602.07632).
 
-<div class="myresearchdetails">Many nonlinear dimension-reduction methods, such as EigenMaps, t-SNE, UMAP, and VAEs, map high-dimensional data into informative low-dimensional embeddings. But what if we want to explicitly control the distribution of these embeddings? </div>
-
-<p align="center">
-  <img src="images/cpfm.png" alt="CPFM" width="400" style="display: inline-block; margin: 0 10px;"/>
-</p>
-
-<div class="myresearchdetails">We develop a Coupled Flow Matching framework that unifies optimal transport and generative modeling. It consists of two components: an efficient solver for a generalized form of Gromov-Wasserstein optimal transport, and a dual conditional flow-matching network that learns bidirectional mappings between data and embeddings.
-Together, they enable mapping complex, high-dimensional data into controllable low-dimensional representations, and generating realistic data samples from them.</div>
+<div class="myresearchdetails"> The scale and complexity of modern Bayesian statistics are growing. While Mean Field Variational Inference (MFVI) offers an efficient approach to probabilistic inference, it struggles to handle hierachical models where the number of latent variables grows with the number of data points. We developed a mini-batch version of MFVI and introduced a primal-dual algorithm, PD-VI, along with its block-preconditioned extension, P²D-VI. These methods utilize an augmented Lagrangian formulation to jointly update global and local parameters while adapting to heterogeneous loss geometries.
+</div>
 
 <p align="center">
-  <img src="images/recon_real.png" alt="QM9" width="400" style="display: inline-block; margin: 0 10px;"/>
+  <img src="images/mouse.png" alt="Mouse" width="400" style="display: inline-block; margin: 0 10px;"/>
 </p>
+
+<div class="myresearchdetails"> 
+On a spatial transcriptomics domain detection task, P²D-VI is capable of segmenting transcriptomic profiles across over 150,000 locations in under 6 seconds.
+</div>
+
 
 <ins>**Calibrated Principal Component Regression**</ins> 
 Yixuan Florence Wu, Yilun Zhu, Lei Cao, Naichen Shi, 2025. [Link](https://arxiv.org/abs/2510.19020).

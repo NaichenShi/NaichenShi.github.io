@@ -24,26 +24,43 @@ Names of my students are <u>underlined</u>.
 
 ## Preprints and paper in progress
 
-[C7: In submission] <ins>**Calibrated Principal Component Regression**</ins>
-<u>Yixuan Florence Wu</u>, Yilun Zhu, <u>Lei Cao</u>, Naichen Shi.
-[Link](https://arxiv.org/abs/2510.19020)
+[In submission] <ins>**Coupled Flow Matching**</ins> 
+Wenxi Cai, Yuheng Wang, Naichen Shi, 2025. [Link](https://arxiv.org/abs/2510.23015).
+<details><summary><smlt> Highlights</smlt></summary>
 
-[C6: In submission] <ins>**Domain Generalization: A Tale of Two ERMs**</ins>
+<smlt>Many nonlinear dimension-reduction methods, such as EigenMaps, t-SNE, UMAP, and VAEs, map high-dimensional data into informative low-dimensional embeddings. But what if we want to explicitly control the distribution of these embeddings?</smlt>
+
+<p align="center">
+  <img src="../images/cpfm.png" alt="CPFM" width="400" style="display: inline-block; margin: 0 10px;"/>
+</p>
+
+<smlt>We develop a Coupled Flow Matching framework that unifies optimal transport and generative modeling. It consists of two components: an efficient solver for a generalized form of Gromov-Wasserstein optimal transport, and a dual conditional flow-matching network that learns bidirectional mappings between data and embeddings.
+Together, they enable mapping complex, high-dimensional data into controllable low-dimensional representations, and generating realistic data samples from them.</smlt>
+
+<p align="center">
+  <img src="../images/recon_real.png" alt="QM9" width="400" style="display: inline-block; margin: 0 10px;"/>
+</p>
+</details>
+<br>
+
+
+
+[In submission] <ins>**Domain Generalization: A Tale of Two ERMs**</ins>
 Yilun Zhu, Naihao Deng, Naichen Shi, Aditya Gangrade, Clayton Scott.
 [Link](https://www.arxiv.org/abs/2510.04441)
 
-[J10: In submission] <ins>**ALBATROSS: Cheap Filtration Based Geometry via Stochastic Sub-Sampling**</ins>
+[In submission] <ins>**ALBATROSS: Cheap Filtration Based Geometry via Stochastic Sub-Sampling**</ins>
 Andrew J Stier, Naichen Shi, Raed Al Kontar, Chad Giusti, Marc G Berman.
 [Link](https://arxiv.org/abs/2509.03681)
 
-[J9: In submission] <ins>**Heterogeneous Matrix Factorization: When Features Differ by Dataset**</ins>
+[In submission] <ins>**Heterogeneous Matrix Factorization: When Features Differ by Dataset**</ins>
 Naichen Shi, Salar Fattahi, Raed Kontar.
 [Link](https://arxiv.org/abs/2305.17744)
 
 
 ## Journal papers
 
-[J8: IEEE T-ASE] <ins>**Diffusion-Based Surrogate Modeling and Multi-Fidelity Calibration**</ins>
+[IEEE T-ASE] <ins>**Diffusion-Based Surrogate Modeling and Multi-Fidelity Calibration**</ins>
 Naichen Shi, Hao Yan, Shenghan Guo, Raed Kontar. *IEEE Transactions on Automation Science and Engineering*, 2025.
 [Link](https://arxiv.org/abs/2407.17720), [Code](https://github.com/UMDataScienceLab/MGDM).
 
@@ -70,13 +87,13 @@ Here's a generated video.
 <br>
 
 
-[J7: JMLR] <ins>**Triple Component Matrix Factorization: Untangling Global, Local, and Noisy Components**</ins> 
+[JMLR] <ins>**Triple Component Matrix Factorization: Untangling Global, Local, and Noisy Components**</ins> 
 Naichen Shi, Salar Fattahi, Raed Al Kontar. *Journal of Machine Learning Research (JMLR)*, 2024. [Link](https://jmlr.org/papers/v25/24-0400.html)
 
-[J6: Technometrics] <ins>**Personalized Tucker Decomposition: Modeling Commonality and Peculiarity on Tensor Data**</ins> 
+[Technometrics] <ins>**Personalized Tucker Decomposition: Modeling Commonality and Peculiarity on Tensor Data**</ins> 
 Jiuyun Hu, Naichen Shi, Raed Kontar, Hao Yan. *Technometrics*, 2024. [Link](https://arxiv.org/abs/2309.03439)
 
-[J5: JMLR] <ins>**Personalized PCA: Decoupling Shared and Unique Features**</ins> 
+[JMLR] <ins>**Personalized PCA: Decoupling Shared and Unique Features**</ins> 
 Naichen Shi, Raed Al Kontar. *Journal of Machine Learning Research (JMLR)*, 2024. [Link](https://www.jmlr.org/papers/v25/22-0810.html), [Video](https://www.youtube.com/watch?v=9XWY745ZFPM), [Code](https://github.com/UMDataScienceLab/Personalized_PCA).
 
 <details>
@@ -102,31 +119,34 @@ Naichen Shi, Raed Al Kontar. *Journal of Machine Learning Research (JMLR)*, 2024
 </details>
 <br>
 
-[J4: JMS] <ins>**Personalized feature extraction for manufacturing process signature characterization and anomaly detection**</ins> Naichen Shi, Shenghan Guo, Raed Al Kontar. *Journal of Manufacturing Systems*, 2024. [Link](https://www.sciencedirect.com/science/article/pii/S0278612524000694).
+[JMS] <ins>**Personalized feature extraction for manufacturing process signature characterization and anomaly detection**</ins> Naichen Shi, Shenghan Guo, Raed Al Kontar. *Journal of Manufacturing Systems*, 2024. [Link](https://www.sciencedirect.com/science/article/pii/S0278612524000694).
 
-[J3: Technometrics] <ins>**Personalized Federated Learning via Domain Adaptation with an Application to Distributed 3D Printing**</ins> 
+[Technometrics] <ins>**Personalized Federated Learning via Domain Adaptation with an Application to Distributed 3D Printing**</ins> 
 Naichen Shi, Raed Al Kontar. *Technometrics*, 2023. [Link](https://www.tandfonline.com/doi/abs/10.1080/00401706.2022.2157882?journalCode=utch20), [Video](https://www.youtube.com/watch?v=wOV8ZwdHgJ0), [Code](https://github.com/UMDataScienceLab/Personalized_FL_with_DA).
 
-[J2: IEEE T-ASE] <ins>**Fed-ensemble: Ensemble Models in Federated Learning for Improved Generalization and Uncertainty Quantification**</ins> Naichen Shi, Raed Al Kontar. *IEEE Transactions on Automation Science and Engineering*, 2022. [Link](https://ieeexplore.ieee.org/document/10113748), [Code](https://github.com/UMDataScienceLab/fedensemble).
+[IEEE T-ASE] <ins>**Fed-ensemble: Ensemble Models in Federated Learning for Improved Generalization and Uncertainty Quantification**</ins> Naichen Shi, Raed Al Kontar. *IEEE Transactions on Automation Science and Engineering*, 2022. [Link](https://ieeexplore.ieee.org/document/10113748), [Code](https://github.com/UMDataScienceLab/fedensemble).
 
-[J1: IEEE Access] <ins>**The Internet of Federated Things**</ins> Raed Kontar, Naichen Shi, Xubo Yue, Seokhyun Chung, Eunshin Byon, Mosharaf Chowdhury, Judy Jin, Wissam Kontar, Neda Masoud, Maher Noueihed, Chinedum E. Okwudire, Garvesh Raskutti, Romesh Saigal, Karandeep Singh, and Zhisheng Ye,  *IEEE Access*, 2021. [Link](https://ieeexplore.ieee.org/document/9611259).
+[IEEE Access] <ins>**The Internet of Federated Things**</ins> Raed Kontar, Naichen Shi, Xubo Yue, Seokhyun Chung, Eunshin Byon, Mosharaf Chowdhury, Judy Jin, Wissam Kontar, Neda Masoud, Maher Noueihed, Chinedum E. Okwudire, Garvesh Raskutti, Romesh Saigal, Karandeep Singh, and Zhisheng Ye,  *IEEE Access*, 2021. [Link](https://ieeexplore.ieee.org/document/9611259).
 
 
 ## Conference papers
+[AISTATS] <ins>**Calibrated Principal Component Regression**</ins>
+<u>Yixuan Florence Wu</u>, Yilun Zhu, <u>Lei Cao</u>, Naichen Shi. *Twenty-Ninth Annual Conference on Artificial Intelligence and Statistics (AISTATS)*, 2026. [Link](https://arxiv.org/abs/2510.19020)
 
-[C5: NeurIPS] <ins>**Inv-Entropy: A Fully Probabilistic Framework for Uncertainty Quantification in Language Models**</ins>
+
+[NeurIPS] <ins>**Inv-Entropy: A Fully Probabilistic Framework for Uncertainty Quantification in Language Models**</ins>
 Haoyi Song, Ruihan Ji, Naichen Shi, Fan Lai, Raed Al Kontar. *The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2025.
 [Link](https://arxiv.org/abs/2506.09684)
 
-[C4: NeurIPS Spotlight] <ins>**Personalized Dictionary Learning for Heterogeneous Datasets**</ins> Geyu Liang, Naichen Shi, Raed Al Kontar, Salar Fattahi.  *Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS)*, 2023. [Link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9f6f790f28a31fba89644f09faf4e0cb-Abstract-Conference.html), [Code](https://github.com/lianggeyuleo/PerMA). 
+[NeurIPS Spotlight] <ins>**Personalized Dictionary Learning for Heterogeneous Datasets**</ins> Geyu Liang, Naichen Shi, Raed Al Kontar, Salar Fattahi.  *Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS)*, 2023. [Link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9f6f790f28a31fba89644f09faf4e0cb-Abstract-Conference.html), [Code](https://github.com/lianggeyuleo/PerMA). 
 
-[C3: MSEC] <ins>**Process Signature Characterization and Anomaly Detection with Personalized PCA in Laser-Based Metal Additive Manufacturing** </ins> 
+[MSEC] <ins>**Process Signature Characterization and Anomaly Detection with Personalized PCA in Laser-Based Metal Additive Manufacturing** </ins> 
 Naichen Shi, Raed Kontar, Shenghan Guo. *Proceedings of the ASME 2023 18th International Manufacturing Science and Engineering Conference*, 2022. [Link](https://asmedigitalcollection.asme.org/MSEC/proceedings-abstract/MSEC2023/1168823).
 
-[C2: NeurIPS Spotlight] <ins>**Adam Can Converge Without Any Modification On Update Rules**</ins>
+[NeurIPS Spotlight] <ins>**Adam Can Converge Without Any Modification On Update Rules**</ins>
 Yushun Zhang, Congliang Chen, Naichen Shi, Ruoyu Sun, Zhiquan Luo. *Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS)*, 2022. [Link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b6260ae5566442da053e5ab5d691067a-Abstract-Conference.html). 
 
-[C1: ICLR spotlight] <ins>**RMSprop converges with proper hyper-parameter**</ins>
+[ICLR spotlight] <ins>**RMSprop converges with proper hyper-parameter**</ins>
 Naichen Shi, Dawei Li, Mingyi Hong, and Ruoyu Sun. *International Conference on Learning Representations (ICLR)*, 2021. [Link](https://openreview.net/forum?id=3UDSdyIcBDA), [Video](https://iclr.cc/virtual/2021/spotlight/3415), [Code](https://github.com/soundsinteresting/RMSprop).
 
 <details>
